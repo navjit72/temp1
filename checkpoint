@@ -1,0 +1,2 @@
+model_checkpoint_path: "CharacterClassifier.ckpt"
+all_model_checkpoint_paths: "CharacterClassifier.ckpt"
